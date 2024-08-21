@@ -6,8 +6,7 @@ Welcome to $\text{DS}^2$, a place to learn more about Data Science and any adjac
 
 ## Traditional Forecasting
 
-- [Prelude to Traditional Forecasting Methods](mita765.github.io/preliminaries.html
-- )
+- [Prelude to Traditional Forecasting Methods](mita765.github.io/preliminaries.html)
 
 ## ML Forecasting
 
